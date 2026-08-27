@@ -33,6 +33,7 @@ I build across algorithmic trading systems, AI-driven media pipelines, live game
 - **[non-stop-pop](https://github.com/callum-gg/non-stop-pop)** *(private)* — Browser-based, GTA-style radio station: AI-generated DJ links, satirical news, and fake ads mixed with real music, with graceful fallback to prerecorded segments so the stream never drops. `TypeScript · Next.js · Web Audio API · LLM + TTS integration`
 - **[AI-Socials](https://github.com/callum-gg/AI-Socials)** *(private)* — Automates short-form video generation (AI storyboards, DALL-E images, TTS narration) and multi-platform publishing to YouTube, TikTok, Instagram, and Facebook on a schedule. `Python · FastAPI · SQLAlchemy · APScheduler`
 - **[referee-decisions](https://github.com/callum-gg/referee-decisions)** *(private)* — Multimodal computer vision system that classifies football referee decisions from match video and audio, with a hierarchical decision taxonomy and timestamped, confidence-scored output. `Python · PyTorch · OpenCV · SlowFast/YAMNet · FastAPI`
+- **[fpl-ai](https://github.com/callum-gg/fpl-ai)** *(public)* - Web server and AI system to produce a team for the FPL fantasy football league. First used in the 2026/27 season.
 
 ### Metropolitan RP / FiveM Roleplay Community
 
